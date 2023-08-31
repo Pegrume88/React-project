@@ -1,2 +1,3 @@
 # React-project
-Online reacr course project
+
+Online react course project
