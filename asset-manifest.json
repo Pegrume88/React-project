@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/pegrume88/react-project/static/css/main.ed03200b.css",
-    "main.js": "/pegrume88/react-project/static/js/main.cc3f7b99.js",
-    "static/media/ai.png": "/pegrume88/react-project/static/media/ai.aa60586ba1ba53762d94.png",
-    "static/media/possibility.png": "/pegrume88/react-project/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/people.png": "/pegrume88/react-project/static/media/people.5cd2d6fbcd48bd63f106.png",
-    "static/media/logo.svg": "/pegrume88/react-project/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
-    "index.html": "/pegrume88/react-project/index.html",
-    "main.ed03200b.css.map": "/pegrume88/react-project/static/css/main.ed03200b.css.map",
-    "main.cc3f7b99.js.map": "/pegrume88/react-project/static/js/main.cc3f7b99.js.map"
+    "main.css": "/static/css/main.ed03200b.css",
+    "main.js": "/static/js/main.e8b0ec05.js",
+    "static/media/ai.png": "/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/index.html",
+    "main.ed03200b.css.map": "/static/css/main.ed03200b.css.map",
+    "main.e8b0ec05.js.map": "/static/js/main.e8b0ec05.js.map"
   },
   "entrypoints": [
     "static/css/main.ed03200b.css",
-    "static/js/main.cc3f7b99.js"
+    "static/js/main.e8b0ec05.js"
   ]
 }
