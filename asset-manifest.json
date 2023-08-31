@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Pegrume88/react-project/static/css/main.ed03200b.css",
+    "main.js": "/Pegrume88/react-project/static/js/main.7dd07d13.js",
+    "static/media/ai.png": "/Pegrume88/react-project/static/media/ai.aa60586ba1ba53762d94.png",
+    "static/media/possibility.png": "/Pegrume88/react-project/static/media/possibility.525f13b61a2157d44de0.png",
+    "static/media/people.png": "/Pegrume88/react-project/static/media/people.5cd2d6fbcd48bd63f106.png",
+    "static/media/logo.svg": "/Pegrume88/react-project/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
+    "index.html": "/Pegrume88/react-project/index.html",
+    "main.ed03200b.css.map": "/Pegrume88/react-project/static/css/main.ed03200b.css.map",
+    "main.7dd07d13.js.map": "/Pegrume88/react-project/static/js/main.7dd07d13.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed03200b.css",
+    "static/js/main.7dd07d13.js"
+  ]
+}
